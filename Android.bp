@@ -1,5 +1,5 @@
 android_app_import {
-    name: "AppStore",
+    name: "FocusLock",
     product_specific: true,
 
     apk: "prebuilt/app-release.apk",
